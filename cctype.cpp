@@ -1,0 +1,9 @@
+#include<iostream>
+#include<cctype>
+using namespace std;
+int main(){
+	for(char c='A';c<='Z';c++){
+		cout<<c<<" ";
+	}
+	return 0;
+}
